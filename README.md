@@ -37,3 +37,13 @@ STEP 3: Provide your api key of ZhipuAI in  `API_KEY` (If you want to use other 
 
 
 STEP 4: Run `./src/run_eval.sh`
+
+
+## Citation
+```bibtex
+@inproceedings{
+  title={Decoupling Knowledge and Reasoning in LLMs: An Exploration Using Cognitive Dual-System Theory},
+  author={Mutian Yang and Jiandong Gao and Ji Wu},
+  booktitle={The 40th Annual AAAI Conference on Artificial Intelligence},
+  year={2025},
+}
